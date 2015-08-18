@@ -1,0 +1,29 @@
+@import url(http://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(http://fonts.googleapis.com/css?family=Slabo+27px|Roboto+Condensed);
+body {
+    background-color: rgb(30, 50, 50);
+}
+
+.heading-text {
+    font-family: 'Slabo 27px', serif;
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+}
+
+#reset-timer-btn {
+    color: black;
+    background-color: aqua;
+    border-radius: 100px;
+}
+
+#button {
+    margin-top: 30px;
+    text-align: center;
+}
+
+#info {
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-top: 30px;
+    color: aliceblue;
+}
